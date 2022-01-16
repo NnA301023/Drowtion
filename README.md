@@ -10,5 +10,10 @@ Terjadinya kantuk ketika jam kerja baik shift pagi maupun malam menyebabkan kesa
 Implementasi Euclidean Distance berdasarkan Eye Spect Ratio ( Landmark Mata ) yang disertai integrasi antarmuka berbasis website dan komponen elektronika
 
 ## Workflow
+![](https://raw.githubusercontent.com/NnA301023/Drowtion/main/database/Untitled%20Diagram.drawio%20(53).png)
+
+## Hardware Wiring
+![](https://raw.githubusercontent.com/NnA301023/Drowtion/main/database/Smooth%20Migelo.png)
 
 ## Interface
+![](https://raw.githubusercontent.com/NnA301023/Drowtion/main/database/WhatsApp%20Image%202022-01-16%20at%2021.46.26.jpeg)
